@@ -15,7 +15,7 @@ out collectively by the network. FlabourasCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the FlabourasCoin Core software, see [https://flabourascoin.org](https://flabourascoin.org).
+the FlabourasCoin Core software, see [http://orthodoxhub.live](http://orthodoxhub.live).
 
 License
 -------
