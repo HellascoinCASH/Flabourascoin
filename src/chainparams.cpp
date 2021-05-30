@@ -152,20 +152,15 @@ public:
                 {  1500, uint256S("0x912f6a5a358d1a42899358c538c527d91d31646864858a930218011df479b6cb")},
                 {  2500, uint256S("0x7d8b96b4f02b71d4818e1006df7a9384cf7a07054eb53d57296d59170e63f3b6")},
              	{  4000, uint256S("0x817cc1c1ebdbb2dc7ca6cb3ca98d742b363926a093b81fde1bde9221bd9790e8")},
-           /*     { 16128, uint256S("0x602edf1859b7f9a6af809f1d9b0e6cb66fdc1d4d9dcd7a4bec03e12a1ccd153d")},
-                { 23420, uint256S("0xd80fdf9ca81afd0bd2b2a90ac3a9fe547da58f2530ec874e978fce0b5101b507")},
-                { 50000, uint256S("0x69dc37eb029b68f075a5012dcc0419c127672adb4f3a32882b2b3e71d07a20a6")},
-                { 80000, uint256S("0x4fcb7c02f676a300503f49c764a89955a8f920b46a8cbecb4867182ecdb2e90a")},
-                {120000, uint256S("0xbd9d26924f05f6daa7f0155f32828ec89e8e29cee9e7121b026a7a3552ac6131")},
-                {161500, uint256S("0xdbe89880474f4bb4f75c227c77ba1cdc024991123b28b8418dbbf7798471ff43")},
-                {179620, uint256S("0x2ad9c65c990ac00426d18e446e0fd7be2ffa69e9a7dcb28358a50b2b78b9f709")},
-                {240000, uint256S("0x7140d1c4b4c2157ca217ee7636f24c9c73db39c4590c4e6eab2e3ea1555088aa")},
-                {383640, uint256S("0x2b6809f094a9215bafc65eb3f110a35127a34be94b7d0590a096c3f126c6f364")},
-                {409004, uint256S("0x487518d663d9f1fa08611d9395ad74d982b667fbdc0e77e9cf39b4f1355908a3")},
-                {456000, uint256S("0xbf34f71cc6366cd487930d06be22f897e34ca6a40501ac7d401be32456372004")},
-                {638902, uint256S("0x15238656e8ec63d28de29a8c75fcf3a5819afc953dcd9cc45cecc53baec74f38")},
-                {721000, uint256S("0x198a7b4de1df9478e2463bd99d75b714eab235a2e63e741641dc8a759a9840e5")},
-           */ }
+           //     {  8500, uint256S("0x")},
+           //     { 17000, uint256S("0x")},
+           //     { 24000, uint256S("0x")},
+           //     { 48500, uint256S("0x")},
+           //     { 89501, uint256S("0x")},
+           //     {100000, uint256S("0x")},
+           //     {200000, uint256S("0x")},
+           //     {400000, uint256S("0x")},
+            }
         };
 
         chainTxData = ChainTxData{
