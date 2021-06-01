@@ -1,9 +1,9 @@
 FlabourasCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/flabourascoin-project/flabourascoin.svg?branch=master)](https://travis-ci.org/flabourascoin-project/flabourascoin)
+[![Build Status](https://travis-ci.com/flabourascoinfoundation/Flabourascoin.svg?branch=main&status=started)
 
-https://flabourascoin.org
+https://orthodoxhub.live
 
 What is FlabourasCoin?
 ----------------
