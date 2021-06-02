@@ -113,10 +113,10 @@ public:
          * The characters are rarely used upper ASCII, not valid as UTF-8, and produce
          * a large 32-bit integer with any alignment.
          */
-        pchMessageStart[0] = 0xfb;
-        pchMessageStart[1] = 0xc0;
-        pchMessageStart[2] = 0xb6;
-        pchMessageStart[3] = 0xdb;
+        pchMessageStart[0] = 0xf1;
+        pchMessageStart[1] = 0xc3;
+        pchMessageStart[2] = 0xba;
+        pchMessageStart[3] = 0xd2;
         nDefaultPort = 25571;
         nPruneAfterHeight = 100000;
 
@@ -213,10 +213,10 @@ public:
         // By default assume that the signatures in ancestors of this block are valid.
         consensus.defaultAssumeValid = uint256S("0xe87ad699172cccfd1c4f9cce89b6e3177bd2e3f150053e3a316b0981b59c5c9e"); //612653
 
-        pchMessageStart[0] = 0xfd;
-        pchMessageStart[1] = 0xd2;
-        pchMessageStart[2] = 0xc8;
-        pchMessageStart[3] = 0xf1;
+        pchMessageStart[0] = 0xfa;
+        pchMessageStart[1] = 0xc3;
+        pchMessageStart[2] = 0xbb;
+        pchMessageStart[3] = 0xd4;
         nDefaultPort = 25569;
         nPruneAfterHeight = 1000;
 
